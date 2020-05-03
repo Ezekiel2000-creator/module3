@@ -1,0 +1,24 @@
+
+.row
+{
+	background-color: gray;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 20px;
+}
+#boss
+{
+	margin: 30px;
+}
+#nav-item
+{
+	text-align: center
+}
+#navbarSupportedContent
+{
+	background-color: white;
+	margin-left:-20px;
+	margin-right:-20px;
+	margin-top:10px;
+	margin-bottom: -10px;
+}
